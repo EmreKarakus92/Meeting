@@ -10,4 +10,6 @@ public class Class1 {
 
     // one more time
 
+    // we are learning Git
+
 }
